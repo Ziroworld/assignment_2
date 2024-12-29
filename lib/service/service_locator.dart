@@ -1,5 +1,5 @@
 
-import 'package:assignment_2/bloc/area_of_circle_bloc.dart';
+import 'package:assignment_2/bloc/area_circle_bloc.dart';
 import 'package:assignment_2/bloc/dashboard_bloc.dart';
 import 'package:assignment_2/bloc/simple_interest_bloc.dart';
 import 'package:get_it/get_it.dart';
